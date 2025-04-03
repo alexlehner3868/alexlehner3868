@@ -35,7 +35,7 @@ let alex = Person {
   area: Software,
   work: Developer {
     languages: vec![Assembly, C, C++, Java, Python, Sql, Verilog],
-    skills: vec![Algorithms, Optimizations, Compilers, Embedded],
+    skills: vec![Algorithms, Game Dev, Data Science, Embedded],
   },
 };
 ```
