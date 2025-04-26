@@ -6,8 +6,7 @@
 
 <p align="center">
   <i>
-    I am a computer engineering student and aspiring programmer
-    with a passion for exploring the world of computing.
+    I am pursuing my masters in computer engineering and am passionate about using programming and data to drive real world impacts.
   </i>
 </p>
 
