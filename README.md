@@ -14,8 +14,7 @@
 
 [![][github.badge]][github.hyper]
 [![][linkedin.badge]][linkedin.hyper]
-[![][mail.badge]][mail.hyper]
-[![][web.badge]][web.hyper]
+
 
 ## About me
 
