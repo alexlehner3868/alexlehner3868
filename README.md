@@ -10,8 +10,12 @@
   </i>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexander-lehner/) 
+---
+
+[![][github.badge]][github.hyper]
+[![][linkedin.badge]][linkedin.hyper]
+[![][mail.badge]][mail.hyper]
+[![][web.badge]][web.hyper]
 
 ## About me
 
@@ -42,3 +46,8 @@ let alex = Person {
 };
 ```
 
+<!-- Reference-style badges -->
+[github.badge]:   https://img.shields.io/github/followers/alexlehner3868?label=Follow&style=social
+[github.hyper]:   https://github.com/alexlehner3868
+[linkedin.badge]: https://img.shields.io/static/v1?label=%20&logo=linkedin&labelColor=555&message=LinkedIn&color=blue
+[linkedin.hyper]: https://linkedin.com/in/zakhary/](http://linkedin.com/in/alexander-lehner/
