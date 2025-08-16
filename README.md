@@ -44,7 +44,6 @@ let alex = Person {
       school: "University of Toronto",
       emphasis 1: "Data Analytics and Machine Learning",
       emphasis 2: "Software Engineering",
-      
       grad: 2027, 
     },
   ],
