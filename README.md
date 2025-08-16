@@ -27,16 +27,26 @@ use Tools::*;
 let alex = Person {
   about: Contact {
     name: "Alex Lehner",
-    country: "🇨🇦",
+    country: "🇨🇦/🇺🇸",
   },
-  edu: vec![Degree {
-    school: "University of Toronto",
-    discipline: "Computer Engineering",
-    minor: "Engineering Business",
-    certificate: "AI",
-    level: Level::Bachelors,
-    grad: 2023,
-  }],
+  edu: vec![
+    Degree {
+      school: "University of Toronto",
+      discipline: "Computer Engineering",
+      minor: "Engineering Business",
+      certificate: "AI",
+      level: Level::Bachelors,
+      grad: 2023,
+    },
+    Degree {
+      school: "University of Toronto",
+      discipline: "Computer Engineering",
+      Speciality 1: "Data Analytics and Machine Learning",
+      Speciality 2: "Software Engineering",
+      level: Level::Masters,
+      grad: 2027, // Replace with your expected graduation year
+    },
+  ],
   area: Software,
   work: Developer {
     languages: vec![C++, C, Python, Sql, React],
