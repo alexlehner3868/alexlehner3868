@@ -31,20 +31,21 @@ let alex = Person {
   },
   edu: vec![
     Degree {
-      school: "University of Toronto",
+      level: Level::Bachelors,
       discipline: "Computer Engineering",
+      school: "University of Toronto",
       minor: "Engineering Business",
       certificate: "AI",
-      level: Level::Bachelors,
       grad: 2023,
     },
     Degree {
-      school: "University of Toronto",
-      discipline: "Computer Engineering",
-      Speciality 1: "Data Analytics and Machine Learning",
-      Speciality 2: "Software Engineering",
       level: Level::Masters,
-      grad: 2027, // Replace with your expected graduation year
+      discipline: "Computer Engineering",
+      school: "University of Toronto",
+      emphasis 1: "Data Analytics and Machine Learning",
+      emphasis 2: "Software Engineering",
+      
+      grad: 2027, 
     },
   ],
   area: Software,
