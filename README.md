@@ -43,14 +43,13 @@ let alex = Person {
       discipline: "Computer Engineering",
       school: "University of Toronto",
       emphasis 1: "Data Analytics and Machine Learning",
-      emphasis 2: "Software Engineering",
       grad: 2027, 
     },
   ],
   area: Software,
   work: Developer {
-    languages: vec![C++, C, Python, Sql, React],
-    skills: vec![Algorithms, Game Dev, Data Science, Embedded],
+    languages: vec![C++, Rust, Python, C, Sql, JS, React],
+    skills: vec![Algorithms, Game Dev, Machine Learning, Data Science, Embedded],
   },
 };
 ```
