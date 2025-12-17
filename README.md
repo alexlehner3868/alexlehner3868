@@ -48,8 +48,8 @@ let alex = Person {
   ],
   area: Software,
   work: Developer {
-    languages: vec![C++, Rust, Python, C, Sql, JS, React],
-    skills: vec![Algorithms, Game Dev, Machine Learning, Data Science, Embedded],
+    languages: vec![C++, Rust, Python, C, Sql, JS, React, Docker, Kubernetes],
+    skills: vec![Algorithms, Game Dev, Machine Learning, Data Science, Embedded, Cloud],
   },
 };
 ```
