@@ -14,6 +14,8 @@
 
 [![][github.badge]][github.hyper]
 [![][linkedin.badge]][linkedin.hyper]
+[![][website.badge]][website.hyper]
+
 
 
 ## About me
@@ -59,3 +61,6 @@ let alex = Person {
 [github.hyper]:   https://github.com/alexlehner3868
 [linkedin.badge]: https://img.shields.io/static/v1?label=%20&logo=linkedin&labelColor=555&message=LinkedIn&color=blue
 [linkedin.hyper]: http://linkedin.com/in/alexander-lehner/
+[website.badge]: https://img.shields.io/badge/Website-Visit-lightgrey?style=flat
+[website.hyper]: https://alexlehner.dev
+
